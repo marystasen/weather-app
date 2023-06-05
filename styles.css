@@ -70,3 +70,11 @@ ul {
 .forecast-temp {
   font-size: 14px;
 }
+small {
+  display: block;
+  bottom: 0%;
+  padding: 0% auto;
+  text-align: center;
+  text-decoration: none;
+  cursor: default;
+}
